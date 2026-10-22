@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+civify.db
+.streamlit/secrets.toml
+.DS_Store
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+
